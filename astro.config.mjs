@@ -7,7 +7,7 @@ import node from '@astrojs/node';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://moon.glitcher.dev',
+	site: 'https://moon.glitcherfn.dev',
 	experimental: {
 		assets: true
 	},
